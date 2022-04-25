@@ -1,1 +1,1 @@
-# stedent
+# student
